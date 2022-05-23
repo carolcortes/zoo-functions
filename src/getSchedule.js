@@ -1,5 +1,4 @@
 const { species, hours } = require('../data/zoo_data');
-const data = require('../data/zoo_data');
 
 const daySchedule = (day) => {
   const { open, close } = hours[day];
