@@ -18,7 +18,7 @@ const createMap = ({ includeNames, sorted, sex }) => species.reduce((acc,
     ? name : { [name]: handleOptions({ sorted, sex, residents }) })] }), {});
 
 const getAnimalMap = (options) => {
-  if (!options || !options.includeNames) return createMap();
+  if (!options || !options.includeNames) return createMap({});
   const { includeNames, sorted, sex } = options;
   return createMap({ includeNames, sorted, sex });
 };
