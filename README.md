@@ -1,5 +1,5 @@
 # Projeto Zoo Functions :woman_farmer: :elephant:
-``Maio/2022``
+``Junho/2022``
 
 > Projeto desenvolvido no Bloco 8 - Higher Order Functions e JavaScript ES6, no módulo de Fundamentos de Desenvolvimento Web, na [Trybe](https://www.betrybe.com/).
 
